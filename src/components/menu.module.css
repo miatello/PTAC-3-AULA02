@@ -1,29 +1,28 @@
-.cabecalho{
-    display: flex;
-    height: 100px;
-    background-color: rgb(207, 110, 176);
+.cabecalho {
+  display: flex;
+  height: 100px;
+  background-color: rgb(207, 110, 176);
 }
-.cabecalho h1{
-    margin-top: 0px;
+
+.cabecalho h1 {
+  margin-top: 0px;
 }
 
 
 
 .Footer {
-    background-color: #f0f0f0;
-    padding: 20px;
-    text-align: center;
-  }
-  
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}
+
 
 .notFoundPage {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    color: red;
-    font-size: 24px;
- 
-  }
-  
-  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: red;
+  font-size: 24px;
+
+}
