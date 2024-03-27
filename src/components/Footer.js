@@ -11,7 +11,7 @@ export default function Footer() {
         </Image>
       </a>
       <footer>
-        <h1>aô</h1>
+        <h1></h1>
       </footer>
     </header>
   );
